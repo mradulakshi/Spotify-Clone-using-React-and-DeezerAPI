@@ -22,7 +22,6 @@ A modern, responsive Spotify 2.0 clone built using **React**, **Vite**, **Tailwi
 - **Frontend:** React, Vite, Tailwind CSS  
 - **State Management:** Redux Toolkit  
 - **API Integration:** Deezer API via RapidAPI  
-- **Icons & UI:** HeroIcons, SVGs  
 
 ---
 
